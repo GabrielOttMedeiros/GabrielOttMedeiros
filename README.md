@@ -1,4 +1,11 @@
-### Hi there 👋
+# Gabriel de Medeiros
+### Nationality: 🇧🇷
+### Hobbies: 🚵‍♂️🏐🧑🏼‍💻
+### Education: Business Analytics at Grand View University
+### Ask me about Stocks Analysis, Machine Learning, Mountain Biking, or even Soccer!
+
+
+
 
 <!--
 **GabrielOttMedeiros/GabrielOttMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
